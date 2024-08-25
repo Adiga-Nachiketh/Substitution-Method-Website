@@ -12,7 +12,7 @@ A tutorial website for analyzing recursive algorithms using the substitution met
 - HTML, CSS, JavaScript
 
 ## How to Use
-1. Clone the repository: git clone https://github.com/your-username/your-repository.git
+1. Clone the repository: git clone https://github.com/Adiga-Nachiketh/Substitution-Method-Website.git
 2. Open `index.html` in your browser.
 
 ## Contact
